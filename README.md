@@ -1,6 +1,6 @@
 # Drag & Drop
 
-![Drag&Drop](./src/assets/ss.png)
+![Drag&Drop](./src/assets/ss.jpeg)
 
 ## Live version:
 
