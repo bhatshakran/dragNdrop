@@ -1,3 +1,7 @@
 # Drag & Drop
 
-![alt text](./src/assets/ss.png)
+![Drag&Drop](./src/assets/ss.png)
+
+## Live version:
+
+[DragNDrop](https://dragndrop-mzpz.onrender.com/)
